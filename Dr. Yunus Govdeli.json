@@ -1,0 +1,33 @@
+{
+    "name": "Dr Yunus Govdeli",
+    "expertise": "**Yunus Gövdeli** is a **Lecturer in Flight Dynamics and Control** at the **University of Salford**, United Kingdom. His research interests span several fascinating areas:
+
+    1. **Unsteady Aerodynamics**: Yunus investigates the aerodynamic behavior of aircraft under dynamic conditions.
+    2. **Unmanned Aerial Vehicles (UAVs)**: He explores topics related to UAVs, including their design, control, and additive manufacturing.
+    3. **Fuzzy Logic Control**: Yunus delves into fuzzy logic-based control systems.
+    4. **3D Printing**: He examines the feasibility and applications of 3D printing for UAV components.
+    
+    Here are some notable works by Yunus Gövdeli:
+    
+    1. **Evaluation of the Influence of Build and Print Orientations of Unmanned Aerial Vehicle Parts Fabricated Using Fused Deposition Modeling Process**: In collaboration with other researchers, Yunus studied the impact of build and print orientations on UAV parts created through fused deposition modeling.
+    2. **Unsteady Aerodynamic Modeling and Control of Pusher and Tilt-Rotor Quadplane Configurations**: This work explores the modeling and control of innovative quadplane configurations.
+    3. **Transient Bio-Inspired Gliders with Embodied Humidity Responsive Actuators for Environmental Sensing**: Yunus contributed to research on bio-inspired gliders equipped with humidity-responsive actuators for environmental monitoring¹.
+    4. **Additive Manufacturing of Unmanned Aerial Vehicles**: Yunus investigated the current status, recent advances, and future prospects of 3D printing for UAVs.
+    5. **Multiple Modeling and Fuzzy Switching Control of Fixed-Wing VTOL Tilt-Rotor UAV**: He explored modeling and control techniques for fixed-wing VTOL UAVs using fuzzy logic.
+    
+    Yunus Gövdeli's work bridges theory and practical applications, contributing to the advancement of aerospace technology. If you'd like to explore more, you can find his publications on [Google Scholar](https://scholar.google.com.sg/citations?user=7G3uZU4AAAAJ&hl=en) and [Frontiers in Robotics and AI](https://loop.frontiersin.org/people/1965302/overview). Additionally, he has been involved in research related to strengthening 3D-printed UAV wing structures.
+    
+    Source:
+    (1) ‪Yunus Gövdeli‬ - ‪Google Scholar‬. https://scholar.google.com.sg/citations?user=7G3uZU4AAAAJ&hl=en.
+    (2) Loop | Yunus Govdeli. https://loop.frontiersin.org/people/1965302/overview.
+    (3) Flight dynamic modelling and parameter identification of ... - FindAPhD. https://www.findaphd.com/phds/project/flight-dynamic-modelling-and-parameter-identification-of-single-engine-se-vertical-take-off-and-landing-vtol-air-mobility-aircraft/?p166055.",
+    "contact": {
+      "email": "y.govdeli@salford.ac.uk",
+      "office": {
+        "building": "School of Science, Engineering & Environment",
+        "room": "SEE-Building - third floor, staff office"
+      }
+    },
+    "office_hours": "Monday to Friday, 9:00 AM - 5:00 PM"
+  }
+  

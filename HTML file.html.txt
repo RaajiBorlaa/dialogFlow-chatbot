@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University of Salford</title>
+  <style>
+    /* CSS styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #004080;
+      color: #ffffff;
+      text-align: center;
+      padding: 20px;
+    }
+    nav {
+      background-color: #0080ff;
+      text-align: center;
+      padding: 10px;
+    }
+    nav a {
+      color: #ffffff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    .container {
+      padding: 20px;
+    }
+    footer {
+      background-color: #004080;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>University of Salford</h1>
+    <p>Academic Profile</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container" id="home">
+    <h2>Welcome to the University of Salford</h2>
+    <p>This is the official website of the University of Salford. Explore our academic programs, research opportunities, and student resources.</p>
+  </div>
+
+  <div class="container" id="about">
+    <h2>About Us</h2>
+    <p>The University of Salford is a public research university located in Salford, Greater Manchester, England. We offer a wide range of undergraduate and postgraduate programs across various disciplines.</p>
+  </div>
+
+  <div class="container" id="contact">
+    <h2>Contact Us</h2>
+    <p>If you have any inquiries or would like to learn more about our academic programs and services, please contact us:</p>
+    <p>Email: info@salford.ac.uk</p>
+    <p>Phone: +44 (0) 161 295 5000</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 University of Salford</p>
+  </footer>
+
+</body>
+</html>
+

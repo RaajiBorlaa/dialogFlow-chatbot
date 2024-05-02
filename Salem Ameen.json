@@ -1,0 +1,36 @@
+{
+    "name": "salem Ameen",
+    "expertise": "Dr. Salem Ameen, a Lecturer in Artificial Intelligence (AI), Robotics, and Automation at the University of Salford, is a prominent academic and researcher in dynamic fields.
+
+    1. Research Interests:
+       - Deep Learning Optimization: Dr. Ameen focuses on enhancing the efficiency of deep neural networks using innovative techniques, including multi-armed bandit algorithms.
+       - Neural Network Pruning: He creates methods to streamline deep neural networks, making them deployable in computationally limited environments.
+       - Machine Learning in Healthcare: Dr. Ameen builds and applies machine learning models to improve medical diagnostics and patient care systems.
+       - Artificial Intelligence in Robotics: His work integrates AI with robotics, particularly in healthcare applications.
+       - Educational Technology: Dr. Ameen explores using AI and machine learning to enhance learning outcomes and pedagogical methods¹.
+    
+    2. Supervision Areas:
+       - Deep Learning
+       - Explainable AI (XAI)
+       - Generative Adversarial Networks (GANs)
+       - Deep Reinforcement Learning
+       - Neural Architecture Search (NAS)
+       - Efficient Deep Learning Training Methods
+       - Machine Learning¹.
+    
+    For more details, visit his profile on the [University of Salford website](https://www.salford.ac.uk/our-staff/salem-ameen)¹. You can also find his contributions on [Google Scholar](https://scholar.google.com/citations?user=CE5vFPKBy44C)⁴.
+    
+    Source:
+    (1) Salem Ameen | University of Salford. https://www.salford.ac.uk/our-staff/salem-ameen.
+    (2) ‪Salem Ameen‬ - ‪Google Scholar‬. https://scholar.google.com/citations?user=CE5vFPKBy44C.
+    (3) Ali Ahmed | University of Salford. https://www.salford.ac.uk/our-staff/ali-ahmed.
+    (4) Dr Salem Ameen - salford-repository.worktribe.com. https://salford-repository.worktribe.com/person/1175069/salem-ameen.",
+    "contact": {
+      "email": "S.A.Ameen1@salford.ac.uk",
+      "office": {
+        "building": "School of Science, Engineering & Environment",
+      }
+    },
+    "office_hours": "Monday to Friday, 9:00 AM - 5:00 PM"
+  }
+  
